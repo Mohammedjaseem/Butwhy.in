@@ -4,6 +4,44 @@ html {
   display: block;
 }
 
+
+
+.responsive {
+      
+  width: 30%;
+  height: 30%;
+  padding-left: 55%;
+  padding-top: 7%;
+  position: fixed;
+  padding-right: 10%;
+  z-index: 1;
+
+}
+.clr{
+  color: #ffae01;
+}
+
+.fa {  
+padding-right: 0px; 
+width: 30px;  
+}  
+.fa-facebook {    
+color: white;  
+}  
+.fa-twitter {  
+
+color: white;  
+}  
+.fa-linkedin {  
+
+color: white;  
+}  
+.fa-instagram {  
+
+color: white;  
+}  
+
+
 body {
   font-family: "Poppins", Helvetica, Arial, sans-serif;
   background-color: #F5F5F5;
